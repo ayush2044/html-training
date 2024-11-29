@@ -1,0 +1,22 @@
+.container {
+    min-height: 100vh;
+    background-color: aqua;
+    display: flex;
+    gap: 30px;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 30px;
+    /* flex-wrap: wrap; */
+    
+}
+
+.box {
+    width: 550px;
+    height: 550px;
+    background-color: plum;
+    border: solid black;
+   text-align: center;
+   align-content: center;
+   size: 50%;
+    flex-shrink: 0;
+}

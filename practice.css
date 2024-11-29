@@ -1,0 +1,42 @@
+.container {
+    background-color: white;
+    display: flex;
+    min-height: 100vh;
+    width: 100%;
+    gap: 10px;
+    
+    
+}
+.right {
+    height: 4000px;
+    width: 50%;
+    display: flex;
+}
+.left {
+    width: 50%;
+    height: 4000px;
+    border: 4px solid yellow;
+    gap: 10px;
+}
+.rr {
+    width: 50%;
+    height: 4000px;
+    
+}
+.rl {
+    width: 50%;
+    height: 4000px;
+}
+.top {
+    height: 2000px;
+    width: 100%;
+}
+.bottom {
+    height: 2000px;
+    width: 100%;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
